@@ -10,7 +10,7 @@ public class VariableMain {
 		//ctrl + space bar : 자동완성 단축키
 		System.out.println();
 	    //ctrl + F11 : 실행 단축키
-		
+		// 테스트
 		int x = 10; //변수 x에 10을 저장
 		System.out.println("x = " + x); // printf("x = ",x); c++ 랑 다르게 ,안쓰고 +로
 		
