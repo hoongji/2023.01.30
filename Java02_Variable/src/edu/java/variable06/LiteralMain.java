@@ -16,6 +16,7 @@ public class LiteralMain {
 		String str1 = "문자열"; //문자열 리터럴은 기본적으로 string
 		
 		
+		
 	}//end main()
 
 }//end LiteralMain

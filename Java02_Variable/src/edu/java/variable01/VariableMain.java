@@ -18,6 +18,7 @@ public class VariableMain {
 		y = 20; //변수 초기화(는 값을 저장)
 		System.out.println("y = " + y);
 		
+		
 		x = 12;
 		x = 12 + y; //진짜 더하기
 		System.out.println("x = " + x);

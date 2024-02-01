@@ -16,6 +16,7 @@ public class BooleanMain {
 		System.out.println("b3 = " + b3);
 		//
 		
+		
 	}//end main
 
 }//end BooleanMain

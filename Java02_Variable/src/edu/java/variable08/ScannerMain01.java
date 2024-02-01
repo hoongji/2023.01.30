@@ -23,7 +23,7 @@ public class ScannerMain01 {
 		double x = sc.nextDouble();
 		System.out.println("x= " + x);
 		
-		
+	
 		
 		//
 	}// end main()

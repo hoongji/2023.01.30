@@ -49,6 +49,7 @@ public class TypeCastingMain {
 		System.out.println("ch2 = " + ch2);
 		
 		
+		
 		//
 	}//end main()
 

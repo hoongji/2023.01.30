@@ -30,6 +30,7 @@ public class CharacterMain {
 		
 		
 		
+		
 	}//end main()
 
 }//end CharacterMain

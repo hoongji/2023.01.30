@@ -17,6 +17,7 @@ public class IntegerMain {
 		n2 = Short.MAX_VALUE;
 		System.out.println("n2 = " + n2); //short 데이터 최대 크기  
 		
+		
 		// 각 타입의 최대/최소를 구하는 방법
 		int n3 = Integer.MIN_VALUE;
 		System.out.println("n3 = " + n3);

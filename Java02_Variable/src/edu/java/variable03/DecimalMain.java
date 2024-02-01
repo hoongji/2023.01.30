@@ -18,6 +18,7 @@ public class DecimalMain {
 		x = Double.MAX_VALUE;
 		System.out.println("x = " + x);
 
+		
 	}//end main()
 
 } //end DecimalMain
