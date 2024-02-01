@@ -24,6 +24,8 @@ public class ScannerMain01 {
 		System.out.println("x= " + x);
 		
 		
+		
+		//
 	}// end main()
 
 }//end ScannerMain01

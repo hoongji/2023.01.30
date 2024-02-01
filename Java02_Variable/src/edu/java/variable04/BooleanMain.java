@@ -14,7 +14,7 @@ public class BooleanMain {
 		
 		boolean b3 = 1 < 0;
 		System.out.println("b3 = " + b3);
-		
+		//
 		
 	}//end main
 

@@ -28,7 +28,7 @@ public class CharacterMain {
 		String str = "안녕하세요";
 		System.out.println("str = " + str);
 		
-		
+		//
 		
 	}//end main()
 

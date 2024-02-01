@@ -18,6 +18,7 @@ public class scannerMain02 {
 		sc.close();
 		
 		
+		//
 	}// end main()
 
 }//end scannerMain02

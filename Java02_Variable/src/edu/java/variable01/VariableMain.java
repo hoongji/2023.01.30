@@ -23,6 +23,6 @@ public class VariableMain {
 		System.out.println("x = " + x);
 		System.out.println("x = " + x + y); // 3220? 더하기 아님 붙여넣기임
 		
-		
+		//
 	} //end main() 
 } //end variableMain

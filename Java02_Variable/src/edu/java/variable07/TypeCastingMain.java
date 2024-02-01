@@ -48,6 +48,8 @@ public class TypeCastingMain {
 		char ch2 =(char)(ch1 + 1);
 		System.out.println("ch2 = " + ch2);
 		
+		
+		//
 	}//end main()
 
 }//end TypeCastingMain
